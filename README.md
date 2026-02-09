@@ -1,29 +1,56 @@
+# < > Kabelo Rabalao < />
 
-## 💫 About Me:
+## { About Me }
 I am a Software Engineer specializing in **Systems Design** and **Game Development**. I architect the scalable, high-performance backends that power applications and leverage that same engineering rigor in **Unity** and **Godot** to build engaging, interactive worlds. I thrive at the intersection of robust infrastructure and creative technology.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabelo-rabalao-576933277/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kabelorabalao.dev@outlook.com)
+<p align="left">
+  <a href="https://github.com/anti00noir?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/anti00noir?color=000000&labelColor=000000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/anti00noir?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/anti00noir?color=000000&style=for-the-badge&labelColor=000000&logo=star&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kabelo-rabalao-576933277/">
+    <img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+</p>
 
-# 💻 Tech Stack:
-### 🎮 Game Development
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine)
+## { Socials }
+<p align="left">
+  <a href="https://www.linkedin.com/in/kabelo-rabalao-576933277/">
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kabelorabalao.dev@outlook.com">
+    <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-### 🖥️ Systems & Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+## { Tech Stack }
+### ┣━ Game Development
+<p align="left">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+</p>
 
-### 🔧 Core Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+### ┣━ Systems & Backend
+<p align="left">
+  <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anti00noir&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&hide=issues)
-![](https://nirzak-streak-stats.vercel.app/?user=anti00noir&theme=one_dark_pro&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anti00noir&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### ┗━ Core Tools
+<p align="left">
+  <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anti00noir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## { GitHub Stats }
+![](https://github-readme-stats.vercel.app/api?username=anti00noir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide=issues)
+![](https://nirzak-streak-stats.vercel.app/?user=anti00noir&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anti00noir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## { GitHub Trophies }
+![](https://github-profile-trophy.vercel.app/?username=anti00noir&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anti00noir&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
