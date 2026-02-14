@@ -14,10 +14,9 @@ I am a Software Engineer specializing in **Systems Design** and **Game Developme
 
 ## { Socials }
 <p align="left">
-  <a href="https://www.linkedin.com/in/kabelo-rabalao-576933277/">
-    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kabelorabalao.dev@outlook.com">
-    <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kabelo-rabalao-576933277/"> <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://itch.io/YOUR-USERNAME-HERE"> <img alt="Itch.io" title="Check out my games" src="https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=itch.io&logoColor=white"/></a>
+  <a href="mailto:kabelorabalao.dev@outlook.com"> <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 </p>
 
 ## { Tech Stack }
