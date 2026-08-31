@@ -1,19 +1,17 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Kabelo
 
-[Short one-line bio — who you are and what you do.]
+A Backend developer with a big interest in Game Design
 
-- 🔭 Currently working on [project]
-- 🌱 Learning [skill/technology]
-- 📫 Reach me at [your.email@example.com]
+- 🔭 Currently working on [Nether's Reach]()
+- 🌱 Currently learning Game Design
+- 📫 Reach me at on mail kabelorabalao.dev@outlook.com
 
-**Tech:** Python · JavaScript · React · Node.js · [add your stack]
+**Tech:** Python · JavaScript · React · Node.js · Java 
 
-**Find me:** [LinkedIn](https://linkedin.com/in/you) · [Twitter](https://twitter.com/you) · [Website](https://yoursite.com)
+**Find me:** [LinkedIn](www.linkedin.com/in/kabelo-rabalao-576933277) · [Website](https://anti00noir.github.io/portfolio_website/)
 
 ---
 
 ### Projects
 
-- **[Project Name](https://github.com/you/repo)** — one-line description
-- **[Project Name](https://github.com/you/repo)** — one-line description
-- **[Project Name](https://github.com/you/repo)** — one-line description
+- **[Nether's Reach](https://github.com/you/repo)** — In progress
