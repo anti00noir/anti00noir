@@ -3,10 +3,10 @@
 A Backend developer with a big interest in Game Design
 
 - 🔭 Currently working on [Nether's Reach]()
-- 🌱 Currently learning Game Design
+- 🌱 Currently learning Game Design & Gameplay Programming
 - 📫 Reach me at on mail kabelorabalao.dev@outlook.com
 
-**Tech:** Python · JavaScript · React · Node.js · Java 
+**Tech:** Python · JavaScript · React · Node.js · Java · PostgresSQL 
 
 **Find me:** [LinkedIn](www.linkedin.com/in/kabelo-rabalao-576933277) · [Website](https://anti00noir.github.io/portfolio_website/)
 
@@ -14,4 +14,4 @@ A Backend developer with a big interest in Game Design
 
 ### Projects
 
-- **[Nether's Reach](https://github.com/you/repo)** — In progress
+- **[Nether's Reach]()** — In progress
