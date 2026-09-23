@@ -5,11 +5,12 @@ A Backend developer with a big interest in Game Design
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anti00noir&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanti00noir&query=.public_repos&label=Public%20Repos&style=flat&color=2E9EF7" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanti00noir&query=.followers&label=Followers&style=flat&color=2E9EF7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anti00noir&layout=compact&theme=dark&hide_border=true&show_icons=true" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanti00noir&query=.following&label=Following&style=flat&color=2E9EF7" />
 </p>
 
 ---
@@ -26,9 +27,7 @@ A Backend developer with a big interest in Game Design
 
 ### Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anti00noir&theme=dark&hide_border=true&bg_color=0d1117&color=2E9EF7&line=2E9EF7&point=2E9EF7" />
-</p>
+<!-- Activity graph unavailable via shields.io -- try https://github.com/denvercoder1/readme-activity-graph as an alternative -->
 
 ### Projects
 
