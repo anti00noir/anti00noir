@@ -1,17 +1,10 @@
 # Hi, I'm Kabelo
 
-A Backend developer with a big interest in Game Design
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanti00noir&query=.public_repos&label=Public%20Repos&style=flat&color=2E9EF7" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanti00noir&query=.followers&label=Followers&style=flat&color=2E9EF7" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanti00noir&query=.following&label=Following&style=flat&color=2E9EF7" />
-</p>
+<div align="center">
+  <img src="https://github.com/anti00noir.png?size=150" alt="Kabelo" width="150" height="150" />
+  <h3>Kabelo Rabalao</h3>
+  <p>Backend Developer · Game Design Enthusiast</p>
+</div>
 
 ---
 
@@ -21,13 +14,25 @@ A Backend developer with a big interest in Game Design
 
 **Tech:** Python · JavaScript · React · Node.js · Java · PostgreSQL
 
-**Find me:** [LinkedIn](https://www.linkedin.com/in/kabelo-rabalao-576933277) · [Website](https://anti00noir.github.io/portfolio_website/)
+**Find me:**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kabelo-rabalao-576933277"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://anti00noir.github.io/portfolio_website/"><img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=firebase&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/anti00noir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+## Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anti00noir&theme=react-dark&hide_border=true" alt="Streak Stats" />
+</p>
 
 ---
 
 ### Activity
 
-<!-- Activity graph unavailable via shields.io -- try https://github.com/denvercoder1/readme-activity-graph as an alternative -->
+<img src="https://activity-graph.vercel.app/graph?username=anti00noir&theme=react-dark&hide_border=true" alt="Activity Graph" />
 
 ### Projects
 
