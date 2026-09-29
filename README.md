@@ -8,11 +8,15 @@
 
 ---
 
-- 🔭 Currently working on [Nether's Reach](https://github.com/anti00noir/neths-reach)
-- 🌱 Currently learning Game Design & Gameplay Programming
-- 📫 Reach me at [kabelorabalao.dev@outlook.com](mailto:kabelorabalao.dev@outlook.com)
+- ▸ Currently working on [Nether's Reach](https://github.com/anti00noir/neths-reach)
+- ▸ Currently learning Game Design & Gameplay Programming
+- ▸ Reach me at [kabelorabalao.dev@outlook.com](mailto:kabelorabalao.dev@outlook.com)
 
-**Tech:** Python · JavaScript · React · Node.js · Java · PostgreSQL
+**Languages:** Python · TypeScript · Java · C#
+**Frontend:** React · TailwindCSS
+**Backend:** Node.js · FastAPI · Spring Boot
+**Data:** PostgreSQL · Redis · MongoDB
+**Tools:** Git · Docker · AWS
 
 **Find me:**
 
